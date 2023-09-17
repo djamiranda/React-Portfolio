@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Project 1",
+        "githubURL": "https://github.com/djamiranda/",
+        "deployedURL": "",
+        "desc": "",
+        "tech": [
+            ""
+        ],
+        "imageName": "screenshot.png"
+    },
+    {
+        "title": "Project 2",
+        "githubURL": "https://github.com/djamiranda/",
+        "deployedURL": "",
+        "desc": "",
+        "tech": [
+            ""
+        ],
+        "imageName": "screenshot.png"
+    },
+    {
+        "title": "Project 3",
+        "githubURL": "https://github.com/djamiranda/",
+        "deployedURL": "",
+        "desc": "",
+        "tech": [
+            ""
+        ],
+        "imageName": "screenshot.png"
+    },
+    {
+        "title": "Project 4",
+        "githubURL": "https://github.com/djamiranda/",
+        "deployedURL": "",
+        "desc": "",
+        "tech": [
+            ""
+        ],
+        "imageName": "screenshot.png"
+    }
+]
