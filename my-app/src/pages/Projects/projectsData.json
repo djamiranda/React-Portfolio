@@ -1,42 +1,42 @@
 [
     {
-        "title": "Project 1",
-        "githubURL": "https://github.com/djamiranda/",
-        "deployedURL": "",
-        "desc": "",
+        "title": "Horiseon",
+        "githubURL": "https://github.com/djamiranda/horiseon",
+        "deployedURL": "https://djamiranda.github.io/horiseon",
+        "desc": "Refactored code for existing Horiseon site.",
         "tech": [
             ""
         ],
-        "imageName": "screenshot.png"
+        "imageName": "horiseon-screenshot.png"
     },
     {
-        "title": "Project 2",
-        "githubURL": "https://github.com/djamiranda/",
-        "deployedURL": "",
-        "desc": "",
+        "title": "EventTracker",
+        "githubURL": "https://github.com/ashleyemfernandez/EventTracker",
+        "deployedURL": "https://ashleyemfernandez.github.io/EventTracker/",
+        "desc": "This web application is an event tracker, which allows any user to type their desired city and find multiple events within that city. They are provided with the date, time and location of the event as well as an extra feature of pinning the location on the map above the listed events.",
         "tech": [
             ""
         ],
-        "imageName": "screenshot.png"
+        "imageName": "screenshot-event_tracker.png"
     },
     {
-        "title": "Project 3",
-        "githubURL": "https://github.com/djamiranda/",
-        "deployedURL": "",
-        "desc": "",
+        "title": "Weather Dashboard",
+        "githubURL": "https://github.com/djamiranda/Weather-Dashboard",
+        "deployedURL": "https://djamiranda.github.io/Weather-Dashboard/",
+        "desc": "A simple weather dashboard featuring todays weather & 5 day forecast using local storage, dynamically updated HTML & CSS.",
         "tech": [
             ""
         ],
-        "imageName": "screenshot.png"
+        "imageName": "screenshot-weather_dashboard.png"
     },
     {
-        "title": "Project 4",
-        "githubURL": "https://github.com/djamiranda/",
-        "deployedURL": "",
-        "desc": "",
+        "title": "🍎StudentMark",
+        "githubURL": "https://github.com/4FunkE/student-marks",
+        "deployedURL": "https://shielded-everglades-30738-44134476de15.herokuapp.com/",
+        "desc": "An app empower students to rate their teachers performance.",
         "tech": [
             ""
         ],
-        "imageName": "screenshot.png"
+        "imageName": "screenshot-StudentMark.png"
     }
 ]
