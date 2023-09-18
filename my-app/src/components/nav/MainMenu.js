@@ -13,7 +13,7 @@ const Navigation = (props) => {
                     <Link to="/" className="link">About Me</Link>
                 </li>
                 <li>
-                    <Link to="/projects" className="link">Projects</Link>
+                    <Link to="/projects" className="link">Portfolio</Link>
                 </li>
                 <li>
                     <Link to="/contact" className="link">Contact</Link>

@@ -14,14 +14,14 @@ const AboutMe = (props) => {
             <div className="main-content-section-body">
                 <div className="main-content-section-body-row">
                     <div id="intro-img">
-                        <img src={coder} alt="Woman Coding" />
+                        <img src={coder} alt="avatar" />
                     </div>
                     <div id="intro-content">
                         <p id="intro-greeting">HELLO WORLD</p>
                         <p id="intro-name">I'm Daniel</p>
                         <TypeAnimation
                             sequence={[
-                                `Full Stack Developer.`,
+                                `Full Stack Developer`,
                                 5000,
                                 '',
                             ]}
@@ -52,10 +52,10 @@ const AboutMe = (props) => {
                             <span> MySQL, MongoDB</span>
                         </li>
                         <li>Tools:
-                            <span> Visual Studio Code, MySQL Workbench, Postman, Insomnia, Github</span>
+                            <span> Visual Studio Code, Compass, Insomnia, Github</span>
                         </li>
                     </ul>
-                    <p>Check my <Link to="/projects" className="link"><span className="about-me-link">projects</span></Link> and <Link to="https://docs.google.com/document/d/1UZM7aMWfNMZxkISy3hMDI9E42OgMyGxhT_WiVUOuENw/edit?usp=sharing" target="_blank" className="link"><span className="about-me-link">resume</span></Link> to learn more about me!</p>
+                    <p>Check my <Link to="/projects" className="link"><span className="about-me-link">portfolio</span></Link> and <Link to="https://docs.google.com/document/d/1UZM7aMWfNMZxkISy3hMDI9E42OgMyGxhT_WiVUOuENw/edit?usp=sharing" target="_blank" className="link"><span className="about-me-link">resume</span></Link> to learn more about me!</p>
                 </div>
             </div>
         </section >

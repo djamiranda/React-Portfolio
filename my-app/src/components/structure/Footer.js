@@ -14,6 +14,9 @@ const Footer = (props) => {
                 <Link to="https://www.linkedin.com/in/daniel-miranda-a414b749" target="_blank" className="link">
                     <i className="bi bi-linkedin"></i>
                 </Link>
+                <Link to="https://stackoverflow.com/users/22582723/djamiranda" target="_blank" className="link">
+                    <i className="bi bi-stack-overflow"></i>
+                </Link>
             </div>
             <div className="footer-row">
                 Daniel Miranda 2023
