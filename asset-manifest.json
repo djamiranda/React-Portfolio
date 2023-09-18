@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.aedbc50b.css",
-    "main.js": "/React-Portfolio/static/js/main.50a801e9.js",
-    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/screenshot-StudentMark.png": "/React-Portfolio/static/media/screenshot-StudentMark.5db6e5c32bf0744dd74f.png",
-    "static/media/screenshot-event_tracker.png": "/React-Portfolio/static/media/screenshot-event_tracker.fa4ae870a5ff52b1f233.png",
-    "static/media/horiseon-screenshot.png": "/React-Portfolio/static/media/horiseon-screenshot.6fbad7058f42c1fb76dc.png",
-    "static/media/screenshot-work_day_scheduler.png": "/React-Portfolio/static/media/screenshot-work_day_scheduler.183e6eb316a634debdf9.png",
-    "static/media/bootstrap-icons.woff?": "/React-Portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/React-Portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/project-placeholder.jpg": "/React-Portfolio/static/media/project-placeholder.05760cbc92d1ff8187a7.jpg",
-    "static/media/screenshot-weather_dashboard.png": "/React-Portfolio/static/media/screenshot-weather_dashboard.4718cce37c307907d7c1.png",
-    "static/media/screenshot-code_quiz.png": "/React-Portfolio/static/media/screenshot-code_quiz.5637a8188bc5f128d1f4.png",
-    "static/media/coder.png": "/React-Portfolio/static/media/coder.d7115d59248f906f1e87.png",
-    "index.html": "/React-Portfolio/index.html",
-    "main.aedbc50b.css.map": "/React-Portfolio/static/css/main.aedbc50b.css.map",
-    "main.50a801e9.js.map": "/React-Portfolio/static/js/main.50a801e9.js.map",
-    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.47a779ca.css",
+    "main.js": "/portfolio/static/js/main.634bd8a5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/screenshot-StudentMark.png": "/portfolio/static/media/screenshot-StudentMark.5db6e5c32bf0744dd74f.png",
+    "static/media/screenshot-event_tracker.png": "/portfolio/static/media/screenshot-event_tracker.fa4ae870a5ff52b1f233.png",
+    "static/media/horiseon-screenshot.png": "/portfolio/static/media/horiseon-screenshot.6fbad7058f42c1fb76dc.png",
+    "static/media/screenshot-work_day_scheduler.png": "/portfolio/static/media/screenshot-work_day_scheduler.183e6eb316a634debdf9.png",
+    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/project-placeholder.jpg": "/portfolio/static/media/project-placeholder.05760cbc92d1ff8187a7.jpg",
+    "static/media/screenshot-weather_dashboard.png": "/portfolio/static/media/screenshot-weather_dashboard.4718cce37c307907d7c1.png",
+    "static/media/screenshot-code_quiz.png": "/portfolio/static/media/screenshot-code_quiz.5637a8188bc5f128d1f4.png",
+    "static/media/coder.png": "/portfolio/static/media/coder.d7115d59248f906f1e87.png",
+    "index.html": "/portfolio/index.html",
+    "main.47a779ca.css.map": "/portfolio/static/css/main.47a779ca.css.map",
+    "main.634bd8a5.js.map": "/portfolio/static/js/main.634bd8a5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aedbc50b.css",
-    "static/js/main.50a801e9.js"
+    "static/css/main.47a779ca.css",
+    "static/js/main.634bd8a5.js"
   ]
 }
