@@ -111,16 +111,16 @@ const EmailForm = (props) => {
 
             const dataToSend = {
                 from_name: name.value,
-                to_name: 'Claire',
+                to_name: 'Daniel',
                 reply_to: email.value,
                 message: message.value,
             }
 
             send(
-                'service_hn5s90g',
-                'template_mfigoeo',
+                'service_wq7c0z7',
+                'template_y11qyut',
                 dataToSend,
-                'uY4aUMgx3hsHvWwTi'
+                '3J8U1TyVKk6umCgFk'
             )
                 .then((response) => {
                     setSubmit({ isSubmitted: true });
@@ -158,12 +158,12 @@ const EmailForm = (props) => {
                     id="name"
                     type="text"
                     name="name"
-                    placeholder="Enter your name."
+                    placeholder="Enter your name"
                     value={name.value}
                     onChange={handleChange}
                     onBlur={handleBlur}
                 />
-                {name.touched && name.hasError && <div className="error-message mt-2">* Name is required.</div>}
+                {name.touched && name.hasError && <div className="error-message mt-2">📛 Name is required</div>}
 
             </div>
             <div className="form-group mb-4">
@@ -173,12 +173,12 @@ const EmailForm = (props) => {
                     id="email"
                     type="email"
                     name="email"
-                    placeholder="Enter your email address."
+                    placeholder="Enter your email address"
                     value={email.value}
                     onChange={handleChange}
                     onBlur={handleBlur}
                 />
-                {email.touched && email.hasError && <div className="error-message mt-2">* Please enter a valid email.</div>}
+                {email.touched && email.hasError && <div className="error-message mt-2">📧 Please enter a valid email address</div>}
             </div>
             <div className="form-group mb-4">
                 <label className="mb-2">Message</label>
@@ -186,17 +186,17 @@ const EmailForm = (props) => {
                     className="form-control"
                     id="message"
                     name="message"
-                    placeholder="Enter your message."
+                    placeholder="Enter your message"
                     value={message.value}
                     onChange={handleChange}
                     onBlur={handleBlur}
                 />
-                {message.touched && message.hasError && <div className="error-message mt-2">* Message is required.</div>}
+                {message.touched && message.hasError && <div className="error-message mt-2">💬 Message is required</div>}
             </div>
             <div className="form-group mb-4" id="form-btn-container">
                 <button className="outlined-button" id="send-message-button" type="submit">Send</button>
-                {submit.isSubmitted && <div className="error-message mt-2">* Your message has been successfully sent!</div>}
-                {!validate.isValidated && <div className="error-message mt-2">* Please fill out the form correctly.</div>}
+                {submit.isSubmitted && <div className="error-message mt-2">📧 Your message has been successfully sent!</div>}
+                {!validate.isValidated && <div className="error-message mt-2">📝 Please fill out the form correctly</div>}
             </div>
         </ form>
     );

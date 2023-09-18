@@ -19,7 +19,7 @@ const Navigation = (props) => {
                     <Link to="/contact" className="link">Contact</Link>
                 </li>
                 <li>
-                    <Link to="https://docs.google.com/document/]" target="_blank" className="link">Resume</Link>
+                    <Link to="https://docs.google.com/document/d/1UZM7aMWfNMZxkISy3hMDI9E42OgMyGxhT_WiVUOuENw/edit?usp=sharing]" target="_blank" className="link">Resume</Link>
                 </li>
             </ul>
         </nav>

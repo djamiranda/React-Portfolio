@@ -55,7 +55,7 @@ const AboutMe = (props) => {
                             <span> Visual Studio Code, MySQL Workbench, Postman, Insomnia, Github</span>
                         </li>
                     </ul>
-                    <p>Check my <Link to="/projects" className="link"><span className="about-me-link">projects</span></Link> and <Link to="https://docs.google.com/document/" target="_blank" className="link"><span className="about-me-link">resume</span></Link> to learn more about me!</p>
+                    <p>Check my <Link to="/projects" className="link"><span className="about-me-link">projects</span></Link> and <Link to="https://docs.google.com/document/d/1UZM7aMWfNMZxkISy3hMDI9E42OgMyGxhT_WiVUOuENw/edit?usp=sharing" target="_blank" className="link"><span className="about-me-link">resume</span></Link> to learn more about me!</p>
                 </div>
             </div>
         </section >
