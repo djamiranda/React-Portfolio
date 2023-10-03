@@ -2,7 +2,7 @@
   
   
   ## ℹ️ Description:
-  React Portfolio
+My professional React Portfolio with About Me, Portfolio, Contact & Resume sections.
 
   ## 📸 Screenshot:
   ![screenshot.png from assets/images should be here](./assets/images/screenshot.png)
